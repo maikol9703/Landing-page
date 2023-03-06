@@ -1,0 +1,32 @@
+.body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+    background-color: #1f2937;
+    color:aliceblue;
+}
+
+.header {
+    display: flex;
+}
+
+.header-logo {
+    color: #f9faf8;
+    font-size: 24px;
+    margin-right:auto;
+}
+
+.main-hero {
+    display: flex;
+}
+
+.main-hero-bigt {
+    color: #f9faf8;
+    font-size: 48px;
+    font-weight: bolder;
+}
