@@ -130,3 +130,28 @@ button {
     justify-content: flex-end;
 }
 
+.signupwrapper {
+    padding: 50px ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.signup {
+    display: flex;
+    padding: 40px 60px;
+    background-color: #3883f6;
+    border-radius: 10px;
+    gap: 10px;
+}
+
+.imperative {
+    font-size: 15px;
+    color: white;
+}
+
+.thereis {
+    color: white;
+    font-size: 10px;
+}
+
