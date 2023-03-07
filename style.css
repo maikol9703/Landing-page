@@ -19,7 +19,7 @@ body {
     align-items: center;
     justify-content: flex-start;
     text-align: center;
-    padding: 0 400px;
+    padding: 0 300px;
     
 }
 
@@ -46,7 +46,7 @@ a{
     display: flex;
     gap: 40px;
     align-items: center;
-    padding: 60px 400px;
+    padding: 60px 300px;
 }
 
 .main-hero-text {
@@ -83,7 +83,9 @@ button {
 .info {
     display: flex;
     flex-direction: column;
-    padding: 40px;
+    padding: 80px;
+    text-align: center;
+    gap: 20px;
 }
 
 .info-header {
@@ -115,7 +117,7 @@ button {
     display: flex;
     background-color: #e5e7eb;;
     flex-direction: column;
-    padding: 50px 400px;
+    padding: 100px 300px;
 }
 
 .main-quote {
@@ -139,7 +141,7 @@ button {
 }
 .signup {
     display: flex;
-    padding: 40px 60px;
+    padding: 20px 60px;
     background-color: #3883f6;
     border-radius: 10px;
     gap: 10px;
