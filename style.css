@@ -111,3 +111,22 @@ button {
     border-radius: 30px;
 }
 
+.quote {
+    display: flex;
+    background-color: #e5e7eb;;
+    flex-direction: column;
+    padding: 50px 400px;
+}
+
+.main-quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: lighter;
+}
+
+.quote .whosaid {
+    display: flex;
+    font-weight: bold;
+    justify-content: flex-end;
+}
+
